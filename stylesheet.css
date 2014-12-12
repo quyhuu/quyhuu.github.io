@@ -1,7 +1,13 @@
-body {
+div {
 	font-family: Open Sans, Apercu, Brandon Grotesque, Montserrat, Futura;
 	background-color:#B0C4DE;
 	border: #cc0000;
 	border-style: solid;
 }
 
+.nav {
+	font-family: Open Sans, Apercu, Brandon Grotesque, Montserrat, Futura;
+	background-color:#B0C4DE;
+	border: #cc0000;
+	border-style: solid;
+}
